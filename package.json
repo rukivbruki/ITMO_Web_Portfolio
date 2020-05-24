@@ -1,0 +1,23 @@
+{
+  "name": "itmo_web_portfolio",
+  "version": "1.0.0",
+  "description": " for Learning web languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukivbruki/ITMO_Web_Portfolio.git"
+  },
+  "author": "isaev sergey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rukivbruki/ITMO_Web_Portfolio/issues"
+  },
+  "homepage": "https://github.com/rukivbruki/ITMO_Web_Portfolio#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8"
+  }
+}

@@ -1,0 +1,1 @@
+# [задачка на лямбда исчисление](https://codesandbox.io/s/lambda-programming-yth9h)

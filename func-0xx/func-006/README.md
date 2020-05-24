@@ -1,0 +1,1 @@
+# [задачка на bind в синтаксисе ::](https://kodaktor.ru/?!=func_04c1d)

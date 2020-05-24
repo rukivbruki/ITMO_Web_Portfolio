@@ -1,0 +1,1 @@
+# [задачка на импорт-2](https://kodaktor.ru/?!=func_5ff25)

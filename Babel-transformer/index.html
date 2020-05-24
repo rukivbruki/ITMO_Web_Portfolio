@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parcel Sandbox</title>
+    <meta charset="UTF-8"/>
+</head>
+
+<body>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script id="k1">
+
+    Babel.registerPreset('pip', {presets: [[Babel.availablePresets["stage-1"], {decoratorsBeforeExport: true}]]})
+
+</script>
+
+<pre>
+
+      Здесь используется pipeline-оператор и показаны значения,
+      которые должны быть получены.
+      Используйте Babel.registerPreset в коде k1, чтобы
+      обеспечить возможность выполнения кода k2
+
+</pre>
+
+<script id="k2" type="text/babel" data-presets="pip">
+    {
+        const f = x => x * x;
+        const g = x => x + 1;
+        console.log(f(g(8)));      // 81
+        console.log(g(f(8)));      // 65
+
+        8 |> f |> g |> console.log  // 65
+        8 |> g |> f |> console.log  // 81
+
+    }
+</script>
+<p id="author" title="GossJS">Исаев Сергей</p>
+</body>
+</html>
