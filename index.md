@@ -1,7 +1,8 @@
 # Web portfolio
+`Ссылки на примеры работы кода на kodactor.ru или codesanbox`
 
 ## Func-0xx
-Раздел на github https://codesandbox.io/s/task-on-this-rk31e
+Раздел на https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/func-0xx
 
 ### [func-001](https://codesandbox.io/s/task-on-this-rk31e)
 ### [func-002](https://kodaktor.ru/?!=func_24b55)
