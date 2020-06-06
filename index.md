@@ -3,6 +3,9 @@
 
 Раздел с примерами кода на [gitHub](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/func-0xx)
 
+## ASYNK-TASK
+- [asynk-task](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/async-task)
+
 ## FUNC-0XX
 - [func-001](https://codesandbox.io/s/task-on-this-rk31e)
 - [func-002](https://kodaktor.ru/?!=func_24b55)
@@ -20,18 +23,23 @@
 ### FRMW-001
 - [frmw-001 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-001/)
 - [frmw-001 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-001)
+
 ### FRMW-002
 - [frmw-002 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-002/dist/)
 - [frmw-002 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-002)
+
 ### FRMW-003
 - [frmw-003 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-003/dist/)
 - [frmw-003 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-003)
+
 ### FRMW-004
 - [frmw-004 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-004/dist/)
 - [frmw-004 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-004)
+
 ### FRMW-005
 - [frmw-005 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-005/dist/)
 - [frmw-005 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-005)
+
 ### FRMW-007
 - [frmw-007 WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/frmw-0xx/frmw-007/)
 - [frmw-007 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-007)
