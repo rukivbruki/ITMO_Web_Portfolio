@@ -14,3 +14,4 @@
 ### [func-008](https://kodaktor.ru/?!=func_eb680)
 ### [func-009](https://kodaktor.ru/?!=func_77641)
 ### [func-010](https://codesandbox.io/s/lambda-programming-yth9h)
+### [async-task](https://kodaktor.ru/?!=async_99a7b)

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
     <title>Parcel Sandbox</title>
     <meta charset="UTF-8"/>
@@ -9,7 +9,22 @@
 <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 <script id="k1">
 
-    Babel.registerPreset('pip', {presets: [[Babel.availablePresets["stage-1"], {decoratorsBeforeExport: true}]]})
+    Babel.registerPreset('rap', {
+        presets: [
+            [Babel.availablePresets["stage-1"], {decoratorsBeforeExport: true}],
+            Babel.availablePresets["env"],
+        ],
+        plugins: [
+            Babel.availablePlugins["proposal-class-properties"],
+            Babel.availablePlugins["proposal-private-property-in-object"],
+            Babel.availablePlugins["proposal-private-methods"],
+            [Babel.availablePlugins["syntax-record-and-tuple"],
+                {"syntaxType": "hash"}],
+            [Babel.availablePlugins["proposal-pipeline-operator"],
+                {"proposal": "minimal"}]
+        ]
+
+    })
 
 </script>
 
@@ -22,7 +37,7 @@
 
 </pre>
 
-<script id="k2" type="text/babel" data-presets="pip">
+<script id="k2" type="text/babel" data-presets="rap">
     {
         const f = x => x * x;
         const g = x => x + 1;
@@ -33,7 +48,16 @@
         8 |> g |> f |> console.log  // 81
 
     }
+
+    // let rap1 = #{x: 1, y: 4};
+    // let rap2 = #{x: 1, y: 4};
+    // console.log(rap1 === rap2);
+    // console.log(#[1, 2, 3] === #[1, 2, 3]);
+
 </script>
-<p id="author" title="GossJS">Исаев Сергей</p>
+
+<p>Исаев Сергей</p>
+
 </body>
 </html>
+
