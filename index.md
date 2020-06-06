@@ -1,6 +1,5 @@
 # Web portfolio
 `Ссылки на примеры работы кода на kodactor.ru или codesanbox.io`
-
 Раздел с примерами кода на [gitHub](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/func-0xx)
 
 ## ASYNK-TASK
