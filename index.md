@@ -50,9 +50,10 @@
 - [frmw-007 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/frmw-0xx/frmw-007)
 
 ### YOU
-- [you](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/you)
+- [you WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/you)
+- [you CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/you)
 
 ### CART
-- [CART WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/cart)
-- [CART-007 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/cart)
+- [cart WEB](https://rukivbruki.github.io/ITMO_Web_Portfolio/cart)
+- [cart-007 CODE](https://github.com/rukivbruki/ITMO_Web_Portfolio/tree/master/cart)
 
